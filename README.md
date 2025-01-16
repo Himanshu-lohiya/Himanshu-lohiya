@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any platforms
 - 📫 How to reach me - himanshulohiya28@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 LinkedIn - https://www.linkedin.com/in/himanshu-lohiya-164433261/
 
 <!---
 Himanshu-lohiya/Himanshu-lohiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
